@@ -48,6 +48,6 @@ public class PlayerController : MonoBehaviour
         // Apply rule modifier
         move = Vector2.Scale(move, _moveMultiplier);
 
-        _motor.SetMove(move);
+       // _motor.SetMove(move);
     }
 }

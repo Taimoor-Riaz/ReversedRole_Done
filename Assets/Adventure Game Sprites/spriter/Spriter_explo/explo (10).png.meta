@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 34b622022a294934d94d9b0a7723d374
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5843037039022152482
+    second: explo (10)_0
+  - first:
+      213: -2187762859636584091
+    second: explo (10)_1
+  - first:
+      213: -5021933842772714222
+    second: explo (10)_2
+  - first:
+      213: 6511744872655217394
+    second: explo (10)_3
+  - first:
+      213: -1194263456078224031
+    second: explo (10)_4
+  - first:
+      213: -3718219941182338537
+    second: explo (10)_5
+  - first:
+      213: 8940799328430100276
+    second: explo (10)_6
+  - first:
+      213: -7347503980761091809
+    second: explo (10)_7
+  - first:
+      213: -1821241391643751232
+    second: explo (10)_8
+  - first:
+      213: 8021748346118902960
+    second: explo (10)_9
+  - first:
+      213: -8076467748994369519
+    second: explo (10)_10
+  - first:
+      213: -2353355154126641178
+    second: explo (10)_11
+  - first:
+      213: -1320539687992044690
+    second: explo (10)_12
+  - first:
+      213: 8476962853668536760
+    second: explo (10)_13
+  - first:
+      213: -8198226169712724935
+    second: explo (10)_14
+  - first:
+      213: 1010706172940711213
+    second: explo (10)_15
+  - first:
+      213: -3817822787932520517
+    second: explo (10)_16
+  - first:
+      213: -8768830841728706501
+    second: explo (10)_17
+  - first:
+      213: -8639694282095262015
+    second: explo (10)_18
+  - first:
+      213: 8714932969478438228
+    second: explo (10)_19
+  - first:
+      213: -2651663934428709193
+    second: explo (10)_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explo (10)_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 249
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed462af45cc59eea0800000000000000
+      internalID: -5843037039022152482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 193
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561919a354183a1e0800000000000000
+      internalID: -2187762859636584091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 181
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d150007c18e4ab0800000000000000
+      internalID: -5021933842772714222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 162
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2e592067d5e5a50800000000000000
+      internalID: 6511744872655217394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1652a34d6bf1d6fe0800000000000000
+      internalID: -1194263456078224031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 134
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a8d09d9aa366cc0800000000000000
+      internalID: -3718219941182338537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 141
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f802b6e99141c70800000000000000
+      internalID: 8940799328430100276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1177f8ee0c680a90800000000000000
+      internalID: -7347503980761091809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 149
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc06d88a96a9b6e0800000000000000
+      internalID: -1821241391643751232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b49ef7ae99f25f60800000000000000
+      internalID: 8021748346118902960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 113
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118ba4d8f5f9aef80800000000000000
+      internalID: -8076467748994369519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 119
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e762f7b4f3375fd0800000000000000
+      internalID: -2353355154126641178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 112
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63dd6976208cade0800000000000000
+      internalID: -1320539687992044690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 67
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b148137dc834a570800000000000000
+      internalID: 8476962853668536760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 81
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93436f51cbc0a3e80800000000000000
+      internalID: -8198226169712724935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 44
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25fc6ac8efb60e00800000000000000
+      internalID: 1010706172940711213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 34
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbff3ede66e540bc0800000000000000
+      internalID: -3817822787932520517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 55
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3855470fcade4680800000000000000
+      internalID: -8768830841728706501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c60db353d3a91880800000000000000
+      internalID: -8639694282095262015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d3a1fac59a1f870800000000000000
+      internalID: 8714932969478438228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo (10)_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be79a463b5633bd0800000000000000
+      internalID: -2651663934428709193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      explo (10)_0: -5843037039022152482
+      explo (10)_1: -2187762859636584091
+      explo (10)_10: -8076467748994369519
+      explo (10)_11: -2353355154126641178
+      explo (10)_12: -1320539687992044690
+      explo (10)_13: 8476962853668536760
+      explo (10)_14: -8198226169712724935
+      explo (10)_15: 1010706172940711213
+      explo (10)_16: -3817822787932520517
+      explo (10)_17: -8768830841728706501
+      explo (10)_18: -8639694282095262015
+      explo (10)_19: 8714932969478438228
+      explo (10)_2: -5021933842772714222
+      explo (10)_20: -2651663934428709193
+      explo (10)_3: 6511744872655217394
+      explo (10)_4: -1194263456078224031
+      explo (10)_5: -3718219941182338537
+      explo (10)_6: 8940799328430100276
+      explo (10)_7: -7347503980761091809
+      explo (10)_8: -1821241391643751232
+      explo (10)_9: 8021748346118902960
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

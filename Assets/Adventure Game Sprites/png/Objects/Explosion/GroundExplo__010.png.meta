@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 4b1b04b89c763254c9881df39b610aed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7232779589856373753
+    second: GroundExplo__010_0
+  - first:
+      213: 5213226421259345273
+    second: GroundExplo__010_1
+  - first:
+      213: 4702704722782929082
+    second: GroundExplo__010_2
+  - first:
+      213: -1606410190801297378
+    second: GroundExplo__010_3
+  - first:
+      213: 2897924888336786589
+    second: GroundExplo__010_4
+  - first:
+      213: 7022343060799354937
+    second: GroundExplo__010_5
+  - first:
+      213: 4522503032285094945
+    second: GroundExplo__010_6
+  - first:
+      213: 3071662017538173178
+    second: GroundExplo__010_7
+  - first:
+      213: 1606262083295963737
+    second: GroundExplo__010_8
+  - first:
+      213: -1707622311717234368
+    second: GroundExplo__010_9
+  - first:
+      213: 5970391633893888906
+    second: GroundExplo__010_10
+  - first:
+      213: -2056300004104084725
+    second: GroundExplo__010_11
+  - first:
+      213: 3592743379388509211
+    second: GroundExplo__010_12
+  - first:
+      213: 9197150538197239542
+    second: GroundExplo__010_13
+  - first:
+      213: -6451414936747345546
+    second: GroundExplo__010_14
+  - first:
+      213: -2493351456509683525
+    second: GroundExplo__010_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GroundExplo__010_0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 266
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fba51057beff5460800000000000000
+      internalID: 7232779589856373753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 210
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d18dc2fc9195840800000000000000
+      internalID: 5213226421259345273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 211
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab04705870d534140800000000000000
+      internalID: 4702704722782929082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10a8bd4172e4b9e0800000000000000
+      internalID: -1606410190801297378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 152
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94e313055f773820800000000000000
+      internalID: 2897924888336786589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938ffddcecf547160800000000000000
+      internalID: 7022343060799354937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 159
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124eafeeb8823ce30800000000000000
+      internalID: 4522503032285094945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 140
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af82c61a45cb0aa20800000000000000
+      internalID: 3071662017538173178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ae80bbad69a4610800000000000000
+      internalID: 1606262083295963737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 82
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049109b0e8e4d48e0800000000000000
+      internalID: -1707622311717234368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 109
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83953cfe871bd250800000000000000
+      internalID: 5970391633893888906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 58
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03edbf7a0e8673e0800000000000000
+      internalID: -2056300004104084725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 71
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ca691811dfbd130800000000000000
+      internalID: 3592743379388509211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f60a079fa7d2af70800000000000000
+      internalID: 9197150538197239542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 42
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679768ccb48f776a0800000000000000
+      internalID: -6451414936747345546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundExplo__010_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb899868f06d56dd0800000000000000
+      internalID: -2493351456509683525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GroundExplo__010_0: 7232779589856373753
+      GroundExplo__010_1: 5213226421259345273
+      GroundExplo__010_10: 5970391633893888906
+      GroundExplo__010_11: -2056300004104084725
+      GroundExplo__010_12: 3592743379388509211
+      GroundExplo__010_13: 9197150538197239542
+      GroundExplo__010_14: -6451414936747345546
+      GroundExplo__010_15: -2493351456509683525
+      GroundExplo__010_2: 4702704722782929082
+      GroundExplo__010_3: -1606410190801297378
+      GroundExplo__010_4: 2897924888336786589
+      GroundExplo__010_5: 7022343060799354937
+      GroundExplo__010_6: 4522503032285094945
+      GroundExplo__010_7: 3071662017538173178
+      GroundExplo__010_8: 1606262083295963737
+      GroundExplo__010_9: -1707622311717234368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

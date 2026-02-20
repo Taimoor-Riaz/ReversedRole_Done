@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 1da454cff4aed1c4993d51fa6a301776
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1598253054423937835
+    second: MidAirExplo__010_0
+  - first:
+      213: -3125451704146588281
+    second: MidAirExplo__010_1
+  - first:
+      213: -3408296937301471095
+    second: MidAirExplo__010_2
+  - first:
+      213: 8744102041974997389
+    second: MidAirExplo__010_3
+  - first:
+      213: 768898329697944062
+    second: MidAirExplo__010_4
+  - first:
+      213: -4749490243999538787
+    second: MidAirExplo__010_5
+  - first:
+      213: -5985818499059440881
+    second: MidAirExplo__010_6
+  - first:
+      213: -4398634124652097078
+    second: MidAirExplo__010_7
+  - first:
+      213: 1146358269852625354
+    second: MidAirExplo__010_8
+  - first:
+      213: -9048755929904211215
+    second: MidAirExplo__010_9
+  - first:
+      213: 5494198998858736526
+    second: MidAirExplo__010_10
+  - first:
+      213: -4289893154950636792
+    second: MidAirExplo__010_11
+  - first:
+      213: 1541084898133847662
+    second: MidAirExplo__010_12
+  - first:
+      213: 3279832167688979921
+    second: MidAirExplo__010_13
+  - first:
+      213: -1887709092119092031
+    second: MidAirExplo__010_14
+  - first:
+      213: 4001370763963784227
+    second: MidAirExplo__010_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MidAirExplo__010_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 278
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcc0ed905dd1d9e0800000000000000
+      internalID: -1598253054423937835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d04b30c3a20a4d0800000000000000
+      internalID: -3125451704146588281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98018135efb43b0d0800000000000000
+      internalID: -3408296937301471095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8100bb9a7a495970800000000000000
+      internalID: 8744102041974997389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 164
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1890205fcabaa00800000000000000
+      internalID: 768898329697944062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91693679cb661eb0800000000000000
+      internalID: -4749490243999538787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 171
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03a9911ac91eeca0800000000000000
+      internalID: -5985818499059440881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1533f8199e4f2c0800000000000000
+      internalID: -4398634124652097078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 142
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9a5e3d5cea8ef00800000000000000
+      internalID: 1146358269852625354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 94
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa99d29c6c5c6280800000000000000
+      internalID: -9048755929904211215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 121
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83284441e05f3c40800000000000000
+      internalID: 5494198998858736526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 70
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b99c687ec3774c0800000000000000
+      internalID: -4289893154950636792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 83
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eacf1cc88036510800000000000000
+      internalID: 1541084898133847662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5400eaafd448d20800000000000000
+      internalID: 3279832167688979921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 54
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c467fc05928dc5e0800000000000000
+      internalID: -1887709092119092031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirExplo__010_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 20
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cd1b87289b78730800000000000000
+      internalID: 4001370763963784227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MidAirExplo__010_0: -1598253054423937835
+      MidAirExplo__010_1: -3125451704146588281
+      MidAirExplo__010_10: 5494198998858736526
+      MidAirExplo__010_11: -4289893154950636792
+      MidAirExplo__010_12: 1541084898133847662
+      MidAirExplo__010_13: 3279832167688979921
+      MidAirExplo__010_14: -1887709092119092031
+      MidAirExplo__010_15: 4001370763963784227
+      MidAirExplo__010_2: -3408296937301471095
+      MidAirExplo__010_3: 8744102041974997389
+      MidAirExplo__010_4: 768898329697944062
+      MidAirExplo__010_5: -4749490243999538787
+      MidAirExplo__010_6: -5985818499059440881
+      MidAirExplo__010_7: -4398634124652097078
+      MidAirExplo__010_8: 1146358269852625354
+      MidAirExplo__010_9: -9048755929904211215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

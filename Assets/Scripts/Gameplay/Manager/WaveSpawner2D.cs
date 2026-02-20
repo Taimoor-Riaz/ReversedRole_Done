@@ -87,4 +87,20 @@ public class WaveSpawner2D : MonoBehaviour
             _t = -startDelay; // restart delay each time it becomes active
         }
     }
+    public void ApplySettings(SpawnerSettings s)
+    {
+        interval = Mathf.Max(0.05f, s.interval);
+        maxAlive = Mathf.Max(0, s.maxAlive);
+        minRadius = Mathf.Max(0f, s.minRadius);
+        maxRadius = Mathf.Max(minRadius, s.maxRadius);
+    }
+
+    [System.Serializable]
+    public struct SpawnerSettings
+    {
+        public float interval;
+        public int maxAlive;
+        public float minRadius;
+        public float maxRadius;
+    }
 }

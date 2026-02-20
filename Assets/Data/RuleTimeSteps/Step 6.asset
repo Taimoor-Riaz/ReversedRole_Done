@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 254133d63671a38489209b96e5fcf509, type: 3}
   m_Name: Step 6
   m_EditorClassIdentifier: 
-  phase: {fileID: 11400000, guid: e89b6c8044d8ec64ba0be70b222abe0f, type: 2}
+  phase: {fileID: 11400000, guid: 3cafd770c42219346abfe62ab71f3487, type: 2}
   duration: 20
-  bannerText: NOTHING CAN BE TRUSTED!
+  bannerText: Controls Stabilized

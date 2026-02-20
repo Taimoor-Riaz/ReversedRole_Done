@@ -15,4 +15,7 @@ public class PhaseRulesetSO : ScriptableObject
 
     [Header("Active Rule Cards for this phase")]
     public List<RuleCard> rules = new();
+    [Header("Contact Modes")]
+    public GameRuleState.ContactMode zombieContactMode = GameRuleState.ContactMode.DamagePlayer;
+    public GameRuleState.ContactMode princessContactMode = GameRuleState.ContactMode.None;
 }

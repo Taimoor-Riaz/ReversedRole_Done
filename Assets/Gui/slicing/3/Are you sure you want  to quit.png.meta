@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 62dcf850483b66446881715e8065a6d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8635496243816035933
+    second: Are you sure you want  to quit_0
+  - first:
+      213: -7639378645919463111
+    second: Are you sure you want  to quit_1
+  - first:
+      213: 9180841095384172356
+    second: Are you sure you want  to quit_2
+  - first:
+      213: 5845079264747625552
+    second: Are you sure you want  to quit_3
+  - first:
+      213: 3961794020659066077
+    second: Are you sure you want  to quit_4
+  - first:
+      213: -3811483229368416592
+    second: Are you sure you want  to quit_5
+  - first:
+      213: -1473060177084105559
+    second: Are you sure you want  to quit_6
+  - first:
+      213: -1230310615673357560
+    second: Are you sure you want  to quit_7
+  - first:
+      213: 1811333536351810772
+    second: Are you sure you want  to quit_8
+  - first:
+      213: -3535700598319624903
+    second: Are you sure you want  to quit_9
+  - first:
+      213: 5880066376586970086
+    second: Are you sure you want  to quit_10
+  - first:
+      213: -1631285727568928131
+    second: Are you sure you want  to quit_11
+  - first:
+      213: 4566012441697752326
+    second: Are you sure you want  to quit_12
+  - first:
+      213: -6398716213078330141
+    second: Are you sure you want  to quit_13
+  - first:
+      213: 3117385007926294420
+    second: Are you sure you want  to quit_14
+  - first:
+      213: 2588706932232269068
+    second: Are you sure you want  to quit_15
+  - first:
+      213: 5404374888782885423
+    second: Are you sure you want  to quit_16
+  - first:
+      213: 4382511682852687281
+    second: Are you sure you want  to quit_17
+  - first:
+      213: 4552132358167768840
+    second: Are you sure you want  to quit_18
+  - first:
+      213: -5115392487638112861
+    second: Are you sure you want  to quit_19
+  - first:
+      213: 2080399269845388199
+    second: Are you sure you want  to quit_20
+  - first:
+      213: 7414258940106007891
+    second: Are you sure you want  to quit_21
+  - first:
+      213: 343738284988514526
+    second: Are you sure you want  to quit_22
+  - first:
+      213: -6654426142434865016
+    second: Are you sure you want  to quit_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56ffd7b41277d770800000000000000
+      internalID: 8635496243816035933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 61
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9390441c8997bf590800000000000000
+      internalID: -7639378645919463111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 60
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4478ea58556e86f70800000000000000
+      internalID: 9180841095384172356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 50
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c984b6f94ed1150800000000000000
+      internalID: 5845079264747625552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 60
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd476aadbae1bf630800000000000000
+      internalID: 3961794020659066077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 59
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6032e6234ea1bc0800000000000000
+      internalID: -3811483229368416592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acb024d293ae8be0800000000000000
+      internalID: -1473060177084105559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 59
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bb565730f0deee0800000000000000
+      internalID: -1230310615673357560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 61
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d470042146232910800000000000000
+      internalID: 1811333536351810772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 60
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dc50de90baeeec0800000000000000
+      internalID: -3535700598319624903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 50
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e34f2037313a9150800000000000000
+      internalID: 5880066376586970086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 60
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72e61116428c59e0800000000000000
+      internalID: -1631285727568928131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 59
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605986bbf1cbd5f30800000000000000
+      internalID: 4566012441697752326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 60
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4feec81813337a0800000000000000
+      internalID: -6398716213078330141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_14
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 58
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4973399e52d234b20800000000000000
+      internalID: 3117385007926294420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 57
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dab434d3fece320800000000000000
+      internalID: 2588706932232269068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 61
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22f1f6e352300b40800000000000000
+      internalID: 5404374888782885423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 11
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd0f60f72fc1dc30800000000000000
+      internalID: 4382511682852687281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 10
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa623f24c6c2f30800000000000000
+      internalID: 4552132358167768840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_19
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 9
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5e0af82a97209b0800000000000000
+      internalID: -5115392487638112861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_20
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abcd1e0d101fdc10800000000000000
+      internalID: 2080399269845388199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_21
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 11
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35568cd393db4e660800000000000000
+      internalID: 7414258940106007891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_22
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 11
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed04174262435c400800000000000000
+      internalID: 343738284988514526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Are you sure you want  to quit_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880d81c1eaab6a3a0800000000000000
+      internalID: -6654426142434865016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Are you sure you want  to quit_0: 8635496243816035933
+      Are you sure you want  to quit_1: -7639378645919463111
+      Are you sure you want  to quit_10: 5880066376586970086
+      Are you sure you want  to quit_11: -1631285727568928131
+      Are you sure you want  to quit_12: 4566012441697752326
+      Are you sure you want  to quit_13: -6398716213078330141
+      Are you sure you want  to quit_14: 3117385007926294420
+      Are you sure you want  to quit_15: 2588706932232269068
+      Are you sure you want  to quit_16: 5404374888782885423
+      Are you sure you want  to quit_17: 4382511682852687281
+      Are you sure you want  to quit_18: 4552132358167768840
+      Are you sure you want  to quit_19: -5115392487638112861
+      Are you sure you want  to quit_2: 9180841095384172356
+      Are you sure you want  to quit_20: 2080399269845388199
+      Are you sure you want  to quit_21: 7414258940106007891
+      Are you sure you want  to quit_22: 343738284988514526
+      Are you sure you want  to quit_23: -6654426142434865016
+      Are you sure you want  to quit_3: 5845079264747625552
+      Are you sure you want  to quit_4: 3961794020659066077
+      Are you sure you want  to quit_5: -3811483229368416592
+      Are you sure you want  to quit_6: -1473060177084105559
+      Are you sure you want  to quit_7: -1230310615673357560
+      Are you sure you want  to quit_8: 1811333536351810772
+      Are you sure you want  to quit_9: -3535700598319624903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

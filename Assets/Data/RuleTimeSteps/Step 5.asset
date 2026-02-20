@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 254133d63671a38489209b96e5fcf509, type: 3}
   m_Name: Step 5
   m_EditorClassIdentifier: 
-  phase: {fileID: 11400000, guid: e4d8089e07566ca4bb8759b01cbc2738, type: 2}
-  duration: 20
-  bannerText: NOTHING CAN BE TRUSTED!
+  phase: {fileID: 11400000, guid: b26394f0d30aa0048abcc4a293b8c453, type: 2}
+  duration: 10
+  bannerText: Zombies  friends

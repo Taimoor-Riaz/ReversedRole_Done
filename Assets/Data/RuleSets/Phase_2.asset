@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441790c6749ec8f40a3182b2c15ef2af, type: 3}
+  m_Name: Phase_2
+  m_EditorClassIdentifier: 
+  phaseName: Phase_2
+  overrideMoveMultiplier: 1
+  moveMultiplier: {x: -1, y: 1}
+  overrideAimMultiplier: 1
+  aimMultiplier: -1
+  rules:
+  - {fileID: 11400000, guid: 940511f0dbbf44e42acfe781186ebc00, type: 2}
+  - {fileID: 11400000, guid: 57ddcbf37146f684e89a9a06089a7642, type: 2}
+  - {fileID: 11400000, guid: 6f83307ec3660c04a8925a0f3d80f115, type: 2}
+  - {fileID: 11400000, guid: 2ef24ba2471bbb6409901b3f2b3c5c8c, type: 2}
+  zombieContactMode: 1
+  princessContactMode: 1

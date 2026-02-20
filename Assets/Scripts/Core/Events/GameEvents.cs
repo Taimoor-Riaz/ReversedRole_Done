@@ -17,6 +17,7 @@ public static class GameEvents
     public static Action<PickupEvent> OnPickup;        // player picks item
 
     // Stats requests (RuleEngine -> Stats)
+    public static System.Action<int, int> OnHealthChanged;
     public static Action<int> OnPlayerHealthDelta;     // + / -
     public static Action<int> OnScoreDelta;            // + / -
     public static Action<DamageRequest> OnDamageTarget;// damage enemy/target
@@ -30,6 +31,8 @@ public static class GameEvents
     public static Action<int, string> OnPhaseChanged; // (index, phaseName)
     public static Action OnGameWin;
     public static Action OnGameLose;
+
+    public static System.Action<bool> OnZombieContactDamageEnabled;
 
 }
 
@@ -51,6 +54,7 @@ public struct HitEvent
 {
     public TargetType targetType;
     public Vector2 hitPoint;
+    public DamageableTarget target;
     public int baseDamage; // “normal” damage value (rule may redirect)
 }
 
@@ -65,6 +69,7 @@ public struct PickupEvent
 public struct DamageRequest
 {
     public TargetType targetType;
+    public DamageableTarget target;
     public int damage;
 }
 public enum AnnouncementType

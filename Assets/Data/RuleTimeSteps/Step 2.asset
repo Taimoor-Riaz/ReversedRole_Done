@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   phase: {fileID: 11400000, guid: c871863ab7418444c989869bfff8b8c6, type: 2}
   duration: 20
-  bannerText: 'NEW: Princess is dangerous!'
+  bannerText: Rules Are Now Normal

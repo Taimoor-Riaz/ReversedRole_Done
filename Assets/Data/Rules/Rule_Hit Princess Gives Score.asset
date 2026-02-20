@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ruleName: PrincessReverse
   description: 
-  scoreGain: 50
+  healAmount: 1

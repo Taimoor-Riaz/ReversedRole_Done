@@ -4,6 +4,7 @@ public class PickupItem : MonoBehaviour
 {
     [SerializeField] private PickupType pickupType;
     [SerializeField] private int baseValue = 1;
+    [SerializeField] private GameObject Effect;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -15,6 +16,9 @@ public class PickupItem : MonoBehaviour
             pickupType = pickupType,
             baseValue = baseValue
         });
+
+        if (Effect)
+            Instantiate(Effect, transform.position, Quaternion.identity);
 
         Destroy(gameObject);
     }

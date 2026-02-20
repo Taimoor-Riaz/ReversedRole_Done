@@ -14,7 +14,7 @@ public class RuleTimelineManager : MonoBehaviour
     [SerializeField] private bool showGameStartMessage = true;
     [SerializeField] private float gameStartDuration = 2.5f;
     [SerializeField] private string gameStartTitle = "GAME START";
-    [TextArea] [SerializeField] private string gameStartBody = "Don’t trust the rules.";
+    [TextArea][SerializeField] private string gameStartBody = "Don’t trust the rules.";
 
     [SerializeField] private string ruleTitle = "NEW RULE";
     [SerializeField] private float ruleDuration = 2.0f;
@@ -75,17 +75,22 @@ public class RuleTimelineManager : MonoBehaviour
         // 1) Activate rules for this phase
         ruleEngine.SetRules(step.phase.rules);
 
-        // 2) Broadcast phase initiated (THIS enables spawners, etc.)
+        // ✅ 2) Set zombie contact mode from PhaseRulesetSO
+        // PhaseRulesetSO must have: public GameRuleState.ZombieContactMode zombieContactMode;
+        GameRuleState.SetZombieContactMode(step.phase.zombieContactMode);
+        GameRuleState.SetPrincessContactMode(step.phase.princessContactMode);
+
+        // 3) Broadcast phase initiated (enables spawners, etc.)
         GameEvents.OnPhaseChanged?.Invoke(i, step.phase.phaseName);
 
-        // 3) Apply modifiers only if overridden
+        // 4) Apply modifiers only if overridden
         if (step.phase.overrideMoveMultiplier)
             GameEvents.OnMoveMultiplierChanged?.Invoke(step.phase.moveMultiplier);
 
         if (step.phase.overrideAimMultiplier)
             GameEvents.OnAimMultiplierChanged?.Invoke(step.phase.aimMultiplier);
 
-        // 4) Announce rule change (optional)
+        // 5) Announce rule change (optional)
         if (announceRule)
             AnnounceRule(step.bannerText, AnnouncementType.RuleFlip);
     }

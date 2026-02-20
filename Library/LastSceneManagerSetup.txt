@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/2D Run and Gun anim Character Pack/scene/Shooter-example-Looks-mouse.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0

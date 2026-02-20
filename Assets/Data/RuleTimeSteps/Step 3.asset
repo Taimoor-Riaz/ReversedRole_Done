@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   phase: {fileID: 11400000, guid: 9fa38075737647a4890e20b53a3c71e1, type: 2}
   duration: 20
-  bannerText: 'TWIST: Zombies punish you now!'
+  bannerText: Rules Back To Reversed
